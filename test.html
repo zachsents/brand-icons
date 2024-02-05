@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div x-data="{ src: '' }">
+        <form @submit.prevent="src = `icons/${new FormData($event.target).get('icon')}.svg`">
+            <input
+                   type="text"
+                   name="icon" />
+        </form>
+
+        <div class="icon-container">
+            <div class="icon"><img x-bind:src="src" /></div>
+            <div class="icon light"><img class="dark" x-bind:src="src" /></div>
+            <div class="icon dark"><img class="light" x-bind:src="src" /></div>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/alpinejs" defer></script>
+</body>
+
+</html>
+
+<style>
+    .icon {
+        border: 1px solid #999;
+        border-radius: 4px;
+        padding: 1em;
+        aspect-ratio: 1;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        max-width: 33%;
+    }
+
+    .icon img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .icon.dark img {
+        filter: brightness(0) invert(1);
+    }
+
+    .icon.dark {
+        background-color: #111;
+    }
+
+    .icon.light img {
+        filter: brightness(0);
+    }
+
+    .icon-container {
+        display: flex;
+        align-items: stretch;
+        gap: 2rem;
+        margin-top: 2rem;
+    }
+</style>

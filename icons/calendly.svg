@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 337.83035 344.26002"
+   version="1.1"
+   id="svg11"
+   sodipodi:docname="calendly.svg"
+   width="100"
+   height="100"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.7607161"
+     inkscape:cx="93.599196"
+     inkscape:cy="52.250687"
+     inkscape:window-width="1536"
+     inkscape:window-height="841"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_2" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">.cls-1{fill:#006bff;}.cls-2{fill:#0ae8f0;}</style>
+  </defs>
+  <g
+     id="Layer_2"
+     data-name="Layer 2"
+     transform="translate(-0.04071258,0.005)">
+    <path
+       class="cls-1"
+       d="M 231.58,223.23 C 220.65,232.93 207,245 182.25,245 h -14.8 c -17.91,0 -34.2,-6.51 -45.86,-18.31 -11.39,-11.53 -17.66,-27.31 -17.66,-44.44 V 162 c 0,-17.13 6.27,-32.91 17.66,-44.44 11.66,-11.8 27.95,-18.3 45.86,-18.3 h 14.8 c 24.78,0 38.4,12.06 49.33,21.76 11.35,10 21.14,18.74 47.25,18.74 a 75.11,75.11 0 0 0 11.89,-0.95 l -0.09,-0.23 A 89.53,89.53 0 0 0 285.14,127.3 L 267.69,97.07 A 89.65,89.65 0 0 0 190.05,52.25 H 155.14 A 89.65,89.65 0 0 0 77.5,97.07 L 60.05,127.3 a 89.67,89.67 0 0 0 0,89.65 L 77.5,247.18 A 89.65,89.65 0 0 0 155.14,292 h 34.91 a 89.65,89.65 0 0 0 77.64,-44.82 L 285.14,217 a 89.53,89.53 0 0 0 5.49,-11.28 l 0.09,-0.22 a 74,74 0 0 0 -11.89,-1 c -26.11,0 -35.9,8.69 -47.25,18.74"
+       id="path7" />
+    <path
+       class="cls-1"
+       d="m 182.25,117.61 h -14.8 c -27.26,0 -45.17,19.47 -45.17,44.39 v 20.25 c 0,24.92 17.91,44.39 45.17,44.39 h 14.8 c 39.72,0 36.6,-40.5 96.58,-40.5 a 91.64,91.64 0 0 1 16.94,1.56 89.54,89.54 0 0 0 0,-31.15 92.51,92.51 0 0 1 -16.94,1.56 c -60,0 -56.86,-40.5 -96.58,-40.5"
+       id="path8" />
+    <path
+       class="cls-1"
+       d="m 330.23,202.5 a 83.62,83.62 0 0 0 -34.45,-14.81 c 0,0.11 0,0.2 0,0.3 a 89.7,89.7 0 0 1 -5,17.45 65.58,65.58 0 0 1 28.48,11.73 c 0,0.08 -0.05,0.18 -0.08,0.27 a 153.57,153.57 0 1 1 0,-90.63 c 0,0.09 0.05,0.19 0.08,0.27 a 65.45,65.45 0 0 1 -28.48,11.72 90.3,90.3 0 0 1 5,17.47 2.33,2.33 0 0 0 0,0.28 83.6,83.6 0 0 0 34.45,-14.8 c 9.82,-7.27 7.92,-15.48 6.43,-20.34 a 172.13,172.13 0 1 0 0,101.43 c 1.49,-4.86 3.39,-13.07 -6.43,-20.34"
+       id="path9" />
+  </g>
+</svg>
